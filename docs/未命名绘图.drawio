@@ -1,0 +1,124 @@
+<mxfile host="Electron" modified="2023-11-13T14:02:10.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="hUoSIaDZLYbQp0onH_4S" version="22.0.3" type="device">
+  <diagram name="第 1 页" id="JfSYB3M8UbMB21RhTC-i">
+    <mxGraphModel dx="1206" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-61" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="720" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prompt Template Board&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="60" y="220" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="60" y="380" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="410" y="220" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="440" y="429" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="180" y="225" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="519" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;Available in encoder with classifier mode&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="419" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Available in GLM mode&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="479.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="180" y="85" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-8" value="&lt;b&gt;BCA Template&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-7" value="&lt;b&gt;CLS Template&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="180" y="385" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="520" y="225" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-9" value="&lt;b&gt;CoT Template&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-15" value="&lt;b&gt;OA Template&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="440" y="489.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="548.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="410" y="80" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="520" y="85" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-35" value="&lt;b&gt;MBC Template&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="525" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="440" y="459" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;Available in MLM mode&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="449" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;Human value descriptions from ChatGPT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="509" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;Synonyms&amp;nbsp;from ChatGPT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="538.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Input:&lt;/u&gt;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;Human Values are indicated in the premise:&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;[Premise]&lt;/b&gt;&amp;nbsp;and the conclusion:&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;[Conclusion] [Stance]&lt;/b&gt;&amp;nbsp;it.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Output:&lt;/u&gt;&lt;br&gt;&lt;/font&gt;[Logits for classifiers]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="110" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Input:&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;Given the premise:&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;[Premise]&lt;/b&gt;&amp;nbsp;and the conclusion:&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;[Conclusion] [Stance]&lt;/b&gt;&amp;nbsp;it. Is it based on the &lt;b&gt;[Value Description]&lt;/b&gt;? [MASK]&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Output:&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&quot;Yes&quot; or &quot;No&quot;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="110" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Input:&lt;/u&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;Question: Given the premise:&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;[Premise]&lt;/b&gt;&amp;nbsp;and the conclusion:&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;[Conclusion] [Stance]&lt;/b&gt;&amp;nbsp;it. Is it based on the &lt;b&gt;[ValueDescription]&lt;/b&gt;? The answer is&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Output:&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&quot;Yes&quot; or &quot;No&quot;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="250" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Input:&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; . I claim that &lt;b&gt;[Conclusion]&lt;/b&gt; because I &lt;b&gt;[Stance]&lt;/b&gt; the &lt;b&gt;[Premise]&lt;/b&gt;. In the aspect of&amp;nbsp; &lt;b&gt;[Value Label]&lt;/b&gt;, use some words to describe what kind of person am I?&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Output:&lt;/u&gt;&lt;br&gt;&lt;/font&gt;True if any&amp;nbsp; &amp;nbsp; &amp;nbsp;in the answer, else False.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="250" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="421" y="268" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="477" y="326" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Input 1:&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;What kind of&amp;nbsp; human values are indicated in&amp;nbsp;&lt;/font&gt;the premise&lt;/font&gt;:&amp;nbsp;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;[Premise]&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;and the conclusion:&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;[Conclusion] [Stance]&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;it?&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;Output 1:&lt;br&gt;&lt;/u&gt;#Reply from LLM#&lt;br&gt;&lt;u&gt;Input 2:&lt;br&gt;&lt;/u&gt;Do you think [#Reply from LLM#] is aligned with&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; , which can also be called&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ?&lt;br&gt;&lt;u&gt;Output 2:&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&quot;Yes&quot; or &quot;No&quot;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="410" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="319" y="501.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="193" y="515" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="440" y="399.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9Bro6dAk5jBvVtfsd-QV-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;Solving all labels in one run&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="389" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
